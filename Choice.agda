@@ -1,5 +1,3 @@
-{-# OPTIONS --safe --cubical --no-import-sorts #-}
-
 module Choice where
 
 open import Cubical.Foundations.Prelude

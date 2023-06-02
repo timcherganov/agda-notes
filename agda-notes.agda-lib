@@ -1,0 +1,4 @@
+name: agda-notes-0.1
+depend: cubical
+include: .
+flags: --safe --cubical --no-import-sorts
